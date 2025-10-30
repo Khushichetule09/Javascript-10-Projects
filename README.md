@@ -26,19 +26,3 @@ Welcome to my **JavaScript Mini Projects** repository! This collection features 
 - ✅ Beginner-friendly but extendable for advanced learners
 
 ---
-
-## 🚀 How to Run
-
-# Clone the repo
-git clone https://github.com/khushichetule09/javascript-10-projects
-
----
-
-🙌 Let's Connect!
-Feel free to fork, clone, star ⭐ or contribute to the repo. If you'd like to discuss ideas or projects, connect with me on:
-
-🐦 https://x.com/khushichetule?t=X1ZdMpPjtJ6EVJJjggWB-Q&s=09
-
-💼 https://www.linkedin.com/in/khushi-chetule-761b50328
-
-
